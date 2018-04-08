@@ -1,2 +1,1 @@
-# numpy-
-官方tutorial
+# numpy官方tutorial译文
